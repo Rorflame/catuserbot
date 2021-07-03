@@ -1,6 +1,6 @@
-# CatUserbot
+# FoxUserbot
 A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/b7dc845e3a48cde0d7bb1.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
+[![Foxuserbot logo](https://telegra.ph/file/66d22a23f2a5e4756adbb.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatuserbot)
 [![CodeFactor](https://www.codefactor.io/repository/github/Jisan09/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/Jisan09/catuserbot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -19,7 +19,7 @@ A simple Telegram userbot based on Telethon .
 
 A simple Telegram userbot based on Telethon .
 
-## How to deploy catuserbot
+## How to deploy Foxuserbot
 ### Self host
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatpack)
@@ -38,7 +38,7 @@ A simple Telegram userbot based on Telethon .
   
 ## Support
    <a href="https://t.me/catuserbot17"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/catuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/Roomchatvirtual"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
