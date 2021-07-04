@@ -27,10 +27,10 @@ class Config(object):
     )
     TG_BOT_USERNAME = None
     # get this value from http://www.timezoneconverter.com/cgi-bin/findzone.tzc
-    TZ = os.environ.get("TZ", "Asia/Kolkata")
+    TZ = os.environ.get("TZ", "Bangka belitung")
     # set this with required cat repo link
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/Jisan09/catuserbot.git"
+        "UPSTREAM_REPO", "https://github.com/Rorflame/foxuserbot.git"
     )
 
     # BASIC and MAIN CONFIG VARS
